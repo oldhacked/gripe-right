@@ -680,18 +680,17 @@ button:focus {
 }
  
 
-}
-.statUp {
+.statsUp{
 	color: #16a085;
 }
 
-.statPart {
-	color: #f1c40f;
-}
 
-.statDown {
+
+
+.statDown{
 	color: #c0392b;
 }
+
 
 
 
@@ -700,6 +699,9 @@ button:focus {
 	margin-top: 10px;
 	margin-right: 3px;
 	
+}
+.statPart{
+	color: #f1c40f;
 }
 
 

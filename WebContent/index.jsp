@@ -77,10 +77,10 @@
 					<ul id="stat" class="collapse">
 
 
-						<li><button type="submit" name="status" value="2" class="dropDownBtn statUp"><b>Mission
-									Capable</b></button></li>
-						<li><button type="submit" name="status" value="1" class="dropDownBtn statPart"><b>Partial</b></button></li>
-						<li><button type="submit" name="status" value="0" class="dropDownBtn statDown"><b>Down</b></button></li>
+						<li><button type="submit" name="status" value="Mission Capable" class="dropDownBtn statUp"><b>Mission
+         Capable</b></button></li>
+         <li><button type="submit" name="status" value="Partial" class="dropDownBtn statPart"><b>Partial</b></button></li>
+         <li><button type="submit" name="status" value="Down" class="dropDownBtn statDown"><b>Down</b></button></li>
 
 					</ul>
 				</form>
